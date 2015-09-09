@@ -1,4 +1,4 @@
-# Course Roster for Epicodus
+# DABBLE API ANGULAR EXERCISE
 ## by Patrick Fiorentino and James Nielson
 #### Date: April 22, 2015
 
